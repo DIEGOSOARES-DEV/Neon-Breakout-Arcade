@@ -4,7 +4,7 @@ Um jogo clássico de **Breakout (Quebra-blocos)** desenvolvido com visual neon a
 
 ## 🚀 Demonstração Online
 Jogue agora direto no navegador:
-👉 [https://seu-usuario.github.io/Neon-Breakout-Arcade/](https://seu-usuario.github.io/Neon-Breakout-Arcade/)
+👉 [https://diegosoares-dev.github.io/Neon-Breakout-Arcade/](https://diegosoares-dev.github.io/Neon-Breakout-Arcade/)
 
 ---
 
@@ -26,7 +26,7 @@ Jogue agora direto no navegador:
 ## ⚙️ Como Executar Localmente
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/Neon-Breakout-Arcade.git](https://github.com/seu-usuario/Neon-Breakout-Arcade.git)
+   git clone [https://github.com/DIEGOSOARES-DEV/Neon-Breakout-Arcade.git](https://github.com/DIEGOSOARES-DEV/Neon-Breakout-Arcade.git)
 
    Abra o arquivo index.html em qualquer navegador web moderno.
 
